@@ -1,4 +1,4 @@
-package Exercicios_Capitulo2;
+package Exemplos_Capitulo2;
 // Figura 2.7: Addition.Java
 // Programa de adição que insere dois números, então exibe a soma deles.
 import java.util.Scanner; // programa utiliza a classe Scanner

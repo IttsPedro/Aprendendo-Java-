@@ -1,4 +1,4 @@
-package Exercicios_Capitulo2;
+package Exemplos_Capitulo2;
 // Fifura 2.4: Welcome3.Java
 //Imprimindo mútiplas linhas de textos com uma única instrução
 

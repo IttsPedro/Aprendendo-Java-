@@ -1,4 +1,4 @@
-package Exercicios_Capitulo2;
+package Exemplos_Capitulo2;
 // Figura 2.1: Welcome2,java
 // Imprimindo uma linha de texto com múltiplas instruções
 

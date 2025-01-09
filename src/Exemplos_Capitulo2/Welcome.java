@@ -1,4 +1,4 @@
-package Exercicios_Capitulo2;
+package Exemplos_Capitulo2;
 //Figura 2.1: Welcome Java 11/11/2024
 //Programa de impressão de texto
 

@@ -1,4 +1,4 @@
-package Exercicios_Capitulo3;
+package Exemplos_Capitulo3;
 // Figura 3.8: Account1.java
 // Classe Account com uma variável de instância balance do tipo double e um construtor
 // e mpetodo deposit que executa a validação

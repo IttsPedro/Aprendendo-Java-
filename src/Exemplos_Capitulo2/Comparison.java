@@ -1,4 +1,4 @@
-package Exercicios_Capitulo2;
+package Exemplos_Capitulo2;
 // Figura 2.15: Comaprison.Java
 // Compara inteiros utilizando instruções IF, operadores relacionais e operadores de igualdade.
 

@@ -1,4 +1,4 @@
-package Exercicios_Capitulo2;
+package Exemplos_Capitulo2;
 // Exercício 2.6: Product.java
 // calcular o produto de 3 inteiros
 import java.util.Scanner;

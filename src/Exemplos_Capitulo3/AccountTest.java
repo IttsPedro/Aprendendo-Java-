@@ -1,4 +1,4 @@
-package Exercicios_Capitulo3;
+package Exemplos_Capitulo3;
 // Figura 3.9: AccountTest.java
 // Entrada e saída de números de ponto flutuante com objetos Account
 import java.util.Scanner;
